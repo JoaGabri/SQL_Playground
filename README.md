@@ -27,7 +27,7 @@ Live server: para rodar a aplicação utilize o comando abaixo na pasta do proje
 Running the Live Server: To run the application, use the following command in the project folder:
 
 ```
-streamlit run app.py
+streamlit run main.py
 ```
 Acesso à interface: Após executar o comando acima, o aplicativo será executado localmente e uma URL será exibida no terminal. Copie e cole essa URL em seu navegador para acessar a interface do Playground de SQL com SQLite3, Pandas e Streamlit.
 Accessing the Interface: After executing the above command, the application will run locally, and a URL will be displayed in the terminal. Copy and paste this URL into your browser to access the SQL Playground with SQLite3, Pandas, and Streamlit interface.
